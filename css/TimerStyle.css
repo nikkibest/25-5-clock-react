@@ -1,5 +1,5 @@
 body {
-  background: #1e555c;
+  background: #aabcbe;
   color: white;
   font-size: 30px;
   text-align: center;
@@ -77,4 +77,4 @@ body #container .timer .timer-control button:active {
   text-decoration: none;
   color: #00264d;
   line-height: 26px;
-}/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=TimerStyle.css.map */
